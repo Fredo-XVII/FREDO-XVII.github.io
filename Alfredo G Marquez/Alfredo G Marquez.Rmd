@@ -1,0 +1,15 @@
+---
+title: "Alfredo G Marquez"
+output: html_document
+theme: journal
+---
+
+105 Ashley Road, Hopkins, MN 55343 | mobile: 612.229.6760 
+
+email: alfredo.g.marquez@gmail.com | url: https://linkedin.com/in/alfredogmarquez/ | Git: https://github.com/Fredo-XVII
+
+
+
+
+
+

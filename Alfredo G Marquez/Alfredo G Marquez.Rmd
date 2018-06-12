@@ -1,15 +1,41 @@
 ---
-title: "Alfredo G Marquez"
 output: html_document
 theme: journal
 ---
+<center> <h1>Alfredo G Marquez</h1> </center>
+<center> 105 Ashley Road, Hopkins, MN 55343 | mobile: 612.229.6760 </center> 
+<center> email: alfredo.g.marquez@gmail.com | url: https://linkedin.com/in/alfredogmarquez/ | Git: https://github.com/Fredo-XVII </center>
 
-105 Ashley Road, Hopkins, MN 55343 | mobile: 612.229.6760 
+### Objective
 
-email: alfredo.g.marquez@gmail.com | url: https://linkedin.com/in/alfredogmarquez/ | Git: https://github.com/Fredo-XVII
+  Discribe your career goal or ideal job
+
+### Professional Accomplishments
+  - **[field or area of accomplishment]**
+  
+    - [job responsibility/achievement]
+    - [job responsibility/achievement]
+    - [job responsibility/achievement]
+
+### Employment History
+  - [dates of employment] [job title] [company name, city, state]
+  - [dates of employment] [job title] [company name, city, state]
+  
+
+### Education:
+ - <span style="text-align:left;">Masters in Business Administration, 
+    <span style="text-align:center;">Spring 2015</span> 
+    <span style="float:right;">University of Minnesota, Minneapolis, MN</span>
+ - <span style="text-align:left;">Masters in Economics, 
+    <span style="text-align:center;">Spring 2008</span> 
+    <span style="float:right;">University of Colorado, Denver, CO</span>
+ - <span style="text-align:left;">Masters in Finance,
+    <span style="text-align:center;">Spring 2008 </span> 
+    <span style="float:right;">University of Colorado, Denver, CO</span>
+ - <span style="text-align:left;">B.S. Finance, Minor Economic,
+    <span style="text-align:center;"> Spring 2005</span> 
+    <span style="float:right;">University of Colorado, Boulder, CO</span>
 
 
-
-
-
-
+### Reference
+  - Provided upon request.

@@ -6,6 +6,8 @@ theme: journal
 <center> 105 Ashley Road, Hopkins, MN 55343 | mobile: 612.229.6760 </center> 
 <center> email: alfredo.g.marquez@gmail.com | url: https://linkedin.com/in/alfredogmarquez/ | Git: https://github.com/Fredo-XVII </center>
 
+-----
+
 ### Objective
 
   Discribe your career goal or ideal job
@@ -39,3 +41,5 @@ theme: journal
 
 ### Reference
   - Provided upon request.
+  
+

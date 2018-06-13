@@ -27,13 +27,15 @@ theme: journal
   - **Unsurpervised Learning**
     - job resp/achievment
 
-  - **Data Analysis**
-  
-    - I used difference in difference methodology to show the impact of moving item delivery from case pack to eaches.  I showed that the change had no impact on sales, but saw large difference in difference decreases in process variables such as pull trips, backstock, and inventory on hand.
+  - **Bigdata/Data Analysis**
+ 
+    - Using Spark on Hadoop, SparkR, and Jupyter notebooks I have analyzed the behavior of RFID tags at the stores. The data built from the millions of RFID tags in the store help undertand how well item audit process is working at the store.  
+    - I used Difference in Difference methodology to show the impact of moving item delivery from case pack to eaches.  I showed that the change had no impact on sales, but saw large difference in difference decreases in process variables such as pull trips, backstock, and inventory on hand.
+    
 
-  - **Bigdata/Data Visualization**
+  - **Data Visualization**
   
-    - resp/achiev
+    - I built interactive dashboard using R, Plotly, DataTable and Flexdashboard, in the form of an html document that the client could view and self-serve for further research. I combined this with GitHub Pages to deliver an on the go analytics solution.
 
   - **SQL/Hive SQL**
   
@@ -46,6 +48,7 @@ theme: journal
     - TestContR(on github) – I created an R package that provides randomized selection of test individuals/stores and provides the nearest matching individual in the data set.  This solution was part of on going effort to get the business partners to come to us before trying to implement A/B testing on process changes.
     
     - Mentoring – I mentored my co-worker in R and was able to get her off of SAS during that time.  We met for 1 hour once a week and watched DataCamp videos and answered questions.
+    
 
 ### Employment History
  - <span style="text-align:left;">Sr. BI & Analyst,Target Corp ,Minneapolis, MN

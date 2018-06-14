@@ -25,21 +25,17 @@ theme: journal
     - job responsibility/achievemet
 	
   - **Unsurpervised Learning**
-    - job resp/achievment
+    - Used Kmeans clustering to group vendors into categories based on their purchasing behavior.  
 
   - **Bigdata/Data Analysis**
  
     - Using Spark on Hadoop, SparkR, and Jupyter notebooks I have analyzed the behavior of RFID tags at the stores. The data built from the millions of RFID tags in the store help undertand how well item audit process is working at the store.  
     - I used Difference in Difference methodology to show the impact of moving item delivery from case pack to eaches.  I showed that the change had no impact on sales, but saw large difference in difference decreases in process variables such as pull trips, backstock, and inventory on hand.
-    
+  - I have experience using SQL/Hive with Teradata/Hadoop to join relational data from many different tables in the million of rows.    
 
   - **Data Visualization**
   
     - I built interactive dashboard using R, Plotly, DataTable and Flexdashboard, in the form of an html document that the client could view and self-serve for further research. I combined this with GitHub Pages to deliver an on the go analytics solution.
-
-  - **SQL/Hive SQL**
-  
-  - I have extensive experience using SQL with Teradata/Hadoop to join relational data from many different tables in the million of rows.
 
   - **Giving Back**
   

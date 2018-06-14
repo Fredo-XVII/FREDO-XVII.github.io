@@ -10,44 +10,34 @@ theme: journal
 
 ### Objective
 
-  Discribe your career goal or ideal job
+My objective is to obtain a role where I can apply my skills as a data scientist, learn from and collaborate with like minded co-workers, and mentor others.
 
-### Professional Accomplishments
-  - **[field or area of accomplishment]**
-  
-    - [job responsibility/achievement]
-    - [job responsibility/achievement]
-    - [job responsibility/achievement]
+
+### Professional Experience
 
   - **Supervised Learning**
-  
-    - job responsibility/achievemet
-    - job responsibility/achievemet
-	
+    - The business needed to understand if changes to the manual pulls process had an impact on sales. I conducted a series of Granger Causality test to test whether manual pulls causes sales and visa versa. The methodology required regressing, using linear regression on time series, pulls on sales using different lags. The differences at 52 weeks was also tested. The results showed that manual pulls does not have on impact on sales.  
+    - My graduate thesis looked at whether the increase in education increased the probability of divorce. I built a probit model where the dependent variable was dichotomous if ever divorced. The regressors included demographic and geographic variables such as income, parents educational attainmen, location, etc. I hypothesized that greater education would lead to more income, and more income would make divorce more economically available, thus more divorces among those individuals with higher education. On the contrary, the results showed that the more education the individuals attained the lower the probability of divorce by double digit percentages.
+
   - **Unsurpervised Learning**
-    - Used Kmeans clustering to group vendors into categories based on their purchasing behavior.  
+    - I built a Kmeans clustering analysis to group vendors into categories using 20 feature engineered metrics based on their purchasing behavior. The business needed to identify which vendors were not being invoiced correctly. I provided a view of vendor spend that procurement had never seen before. Procurement was able to maximize their time by focusing on the worst offenders first and ensuring that Target paid for supplies as contracted. The ability to identify these vendors led to large savings in procurement costs that year.
 
   - **Bigdata/Data Analysis**
- 
-    - Using Spark on Hadoop, SparkR, and Jupyter notebooks I have analyzed the behavior of RFID tags at the stores. The data built from the millions of RFID tags in the store help undertand how well item audit process is working at the store.  
-    - I used Difference in Difference methodology to show the impact of moving item delivery from case pack to eaches.  I showed that the change had no impact on sales, but saw large difference in difference decreases in process variables such as pull trips, backstock, and inventory on hand.
-  - I have experience using SQL/Hive with Teradata/Hadoop to join relational data from many different tables in the million of rows.    
+    - Using Spark on Hadoop, SparkR, and Jupyter notebooks I have analyzed the behavior of RFID tags at the stores. The data built from the millions of RFID tags in the store help to understand how well the item audit process is working at the store.  The goal is to identify stores, or team members, that are failing to conduct the inventory audit process accurately.
+    - I used Difference in Difference methodology to show the impact of moving item delivery to the store from case pack to eaches. I showed that the change had no impact on sales, but saw large difference in difference decreases in process variables such as pull trips, backstock, and inventory on hand. This analysis proved that Target could reduce its inventory on hand without decreasing sales, saving millions of dollars in inventory.  I built the analysis in R and delivered an HTML Rnotebook to the client that was available on GitHub on demand.
+    - I have experience using SQL/Hive with Teradata/Hadoop to join relational data from many different sources in the million of rows.    
 
   - **Data Visualization**
-  
-    - I built interactive dashboard using R, Plotly, DataTable and Flexdashboard, in the form of an html document that the client could view and self-serve for further research. I combined this with GitHub Pages to deliver an on the go analytics solution.
+    - I built interactive dashboard using R, Plotly, DataTable and Flexdashboard, in the form of an HTML document that the client could view and self-serve for further research. I combined this with GitHub Pages to deliver an on the go analytics solution. The business found it invaluable to be able to conduct continuous research after I had delivered the results of the study.
 
   - **Giving Back**
-  
-    - R Open Lab – I started the first R open lab at Target in January of 2017.  I take 1 hour every 2 weeks to help others learn R, get started, help with code, or talk about analytical methodology. 
-    
-    - TestContR(on github) – I created an R package that provides randomized selection of test individuals/stores and provides the nearest matching individual in the data set.  This solution was part of on going effort to get the business partners to come to us before trying to implement A/B testing on process changes.
-    
-    - Mentoring – I mentored my co-worker in R and was able to get her off of SAS during that time.  We met for 1 hour once a week and watched DataCamp videos and answered questions.
+    - R Open Lab – I started the first R open lab at Target in January of 2017. I take 1 hour every 2 weeks to help others learn R, get started, help with code, or talk about analytical methodology. 
+    - TestContR (on GitHub) – I created an R package that provides randomized selection of test individuals/stores and provides the nearest matching individual in the data set as a control. This solution was part of on going effort to get the business partners to come to us before trying to implement A/B testing on process changes in the Target stores.
+    - Mentoring – I mentored my co-worker in R and was able to get her off of SAS within 1 year. We met for 1 hour once a week and watched DataCamp videos and answered questions.
     
 
 ### Employment History
- - <span style="text-align:left;">Sr. BI & Analyst,Target Corp ,Minneapolis, MN
+ - <span style="text-align:left;">Sr. BI & A Analyst,Target Corp ,Minneapolis, MN
     <span style="float:right;">August 2014 - Present</span>  
  - <span style="text-align:left;">Econometrician, TCF Bank, Minneapolis, MN
     <span style="float:right;">January 2014 – August 2014</span>
@@ -58,15 +48,10 @@ theme: journal
 ### Education:
  - <span style="text-align:left;">Masters in Business Administration, University of Minnesota, Minneapolis, MN
     <span style="float:right;">Spring 2015</span>
- - <span style="text-align:left;">M.A in Economics, University of Colorado, Denver, CO
+ - <span style="text-align:left;">M.A. in Economics, University of Colorado, Denver, CO
     <span style="float:right;">Spring 2008</span>
- - <span style="text-align:left;">Masters in Finance, University of Colorado, Denver, CO
+ - <span style="text-align:left;">M.S. in Finance, University of Colorado, Denver, CO
     <span style="float:right;">Spring 2008</span>
  - <span style="text-align:left;">B.S. Finance, Minor Economics, University of Colorado, Boulder, CO
     <span style="float:right;">Spring 2005</span>
-
-
-### Reference
-  - Provided upon request.
-  
 
